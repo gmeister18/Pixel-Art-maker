@@ -20,3 +20,9 @@ O Pixel Art Maker é uma simples ferramenta de criação de arte em pixel que pe
 4. Clique em uma célula da grade para preenchê-la com a cor selecionada.
 5. Use a ferramenta de balde para preencher áreas maiores com a cor selecionada.
 6. Use as opções de desfazer/refazer para ajustar sua criação.
+
+7. 
+8. ## Licença
+
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
